@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@jkrahl/uab",
+  "description": "Personal version of jackyzha0/quartz",
   "private": true,
-  "version": "4.4.0",
+  "version": "0.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "jkrahl <jan@krahl.dev> (https://krahl.dev/)",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://github.com/jkrahl/uab",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "git+https://github.com/jkrahl/uab.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
@@ -23,14 +23,6 @@
     "npm": ">=9.3.1",
     "node": "20 || >=22"
   },
-  "keywords": [
-    "site generator",
-    "ssg",
-    "digital-garden",
-    "markdown",
-    "blog",
-    "quartz"
-  ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
   },
