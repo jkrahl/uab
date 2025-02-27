@@ -2,7 +2,7 @@
   "name": "@jkrahl/uab",
   "description": "Personal version of jackyzha0/quartz",
   "private": true,
-  "version": "0.1.0",
+  "version": "4.4.0",
   "type": "module",
   "author": "jkrahl <jan@krahl.dev> (https://krahl.dev/)",
   "license": "MIT",
