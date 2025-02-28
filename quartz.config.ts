@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " - Jan Krahl's Hypertext Notebook",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'plausible', host: 'uab.krahl.dev' },
+    analytics: { provider: 'plausible', host: 's.krahl.dev' },
     locale: "es-ES",
     baseUrl: "uab.krahl.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
